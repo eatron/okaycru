@@ -1,0 +1,307 @@
+body{
+			font-family: 'Russo One', sans-serif;
+			background: rgb(0, 0, 0, .7);
+}
+.wrapper{
+	width: 99%;
+	height: 100%;
+	position: absolute;
+	transform: translate(0%,0%);
+	background: rgba(0,0,0,.0);
+}
+
+header{
+	background: rgb(0, 0, 0, .3);
+	width: 1500px;
+	height: 70px;
+	position: absolute;
+	left: 1px;
+	top: 1px;
+}
+
+.logo{
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+
+.header-text{
+	position: absolute;
+	left: 5%;
+	width: 200px;
+}
+
+.okay-cru{
+position: absolute;
+left: 5%;
+}
+
+.about{
+	position: absolute;
+	top: 40px;
+}
+
+.all{
+	position: absolute;
+	left: 20%;
+	top: 18px;
+}
+
+.font1, .font2, .font3, .font4{
+	margin-right: 10px;
+	text-decoration: none;
+}
+
+.font1:hover{
+	transition: .5s;
+	color: red;
+	text-decoration: underline red;
+}
+
+.font2:hover{
+	transition: .5s;
+	color: aqua;
+	text-decoration: underline aqua;
+}
+
+.font3:hover{
+	transition: .5s;
+	color: lime;
+	text-decoration: underline lime;
+}
+
+.font4:hover{
+	transition: .5s;
+	color: orange;
+	text-decoration: underline orange;
+}
+
+.text{
+	position: 	absolute;	
+	left: 92%;
+	top: 	15%;
+}
+.login{
+	position: 	absolute;	
+	left: 	30%;
+}
+
+.profile{
+		position: 	absolute;	
+		left: 	71%;
+		top: 	20px;
+
+}
+
+.side-bar-content{
+	position: absolute;
+	top: 80px;
+	left: 1200px;
+	background: rgb(0, 0, 0, .4);
+	width: 300px;
+	height: 380px;
+}
+
+.javascript{
+	background: rgb(0, 0, 0, .2);
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+	position: absolute;
+	left: 3%;
+	top: 17%;
+	shape-image-threshold: 
+}
+
+.javascript:hover{
+
+	background: orange;
+	transition: .5s;
+ 	box-shadow:0 0 12px #FFA500 ,0 0 11px #FFA500;
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+	position: absolute;
+	left: 3%;
+	top: 17%;
+}
+
+
+
+.javascript-text{
+	position: absolute;
+	left: 30%;
+	top: 10%;
+}
+
+.html-css{
+	background: rgb(0, 0, 0, .2);
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+	position: absolute;
+	left: 3%;
+	top: 30%;
+}
+
+
+.html-css:hover{
+	transition: .5s;
+ 	 box-shadow:0 0 10px blue ,0 0 13px aqua;
+	background: rgb(0, 100, 255, .5);
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+	position: absolute;
+	left: 3%;
+	top: 30%;
+}
+
+
+.html-css-text{
+	position: absolute;
+	left: 30%;
+	top: 10%;
+}
+
+.php{
+	background: rgb(0, 0, 0, .2);
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+	position: absolute;
+	left: 3%;
+	top: 44%;
+}
+
+
+.php:hover{
+	transition: .5s;
+ 	 box-shadow:0 0 10px purple ,0 0 13px purple;
+	background: purple;
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+}
+
+
+.php-text{
+	position: absolute;
+	left: 41%;
+	top: 10%;
+}
+
+.games{
+	background: rgb(0, 0, 0, .2);
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+	position: absolute;
+	left: 3%;
+	top: 58%;
+}
+
+
+.games:hover{
+	transition: .5s;
+ 	 box-shadow:0 0 10px darkred ,0 0 13px red;
+	background: red;
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+}
+
+
+.games-text{
+	position: absolute;
+	left: 35%;
+	top: 10%;
+}
+
+.more{
+	background: rgb(0, 0, 0, .2);
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+	position: absolute;
+	left: 3%;
+	top: 73%;
+}
+
+
+.more:hover{
+	transition: .5s;
+ 	 box-shadow:0 0 10px gray ,0 0 13px white;
+	background: gray;
+	width: 280px;
+	height: 40px;
+	border: white 1px solid;
+
+
+}
+
+
+.more-text{
+	position: absolute;
+	left: 35%;
+	top: 10%;
+}
+
+.content-add{
+	color: white;
+	text-decoration: none;
+	position: absolute;
+	top: 89%;
+	left: 20px;
+}
+
+.sidebar-reklama{
+	position: absolute;
+	top: 470px;
+	left: 1200px;
+	background: rgb(0, 0, 0, .4);
+	width: 300px;
+	height: 890px;
+}
+
+.reklama1{
+	position: absolute;
+	top: 20px;
+	background: white;
+	left: 20px;
+	width: 260px;
+	height: 400px;
+}
+
+.reklama2{
+	position: absolute;
+	top: 460px;
+	background: white;
+	left: 20px;
+	width: 260px;
+	height: 400px;
+}
+
+.all-content{
+background: rgb(0, 0, 0, .5);
+width: 1190px;
+height: 1280px;
+position: absolute;
+top: 80px;
+left: 1px;
+}
+.hr{
+	position: absolute;
+	top:1370px;
+	width:1500px;
+}
+
+.text-under-all{
+	position: absolute;
+	top: 1200px;
+}
+
+.about-site{
+	position: absolute;
+	left: 60px;
+}
